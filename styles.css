@@ -16,7 +16,12 @@ body {
     width: 300px;
     text-align: center;
 }
+#logo {
+    display: block;
+    height: auto;
+    width: 300px;
 
+}
 h1, h2 {
     margin-bottom: 20px;
 }
