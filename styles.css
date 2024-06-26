@@ -43,9 +43,10 @@ h1, h2 {
     font-weight: bold;
     margin-bottom: 20px;
 }
+
+
 #logo {
-    display: block;
     height: 50px;
     width: 75px;
-
+    margin-bottom: 20px;
 }
